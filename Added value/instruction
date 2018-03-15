@@ -1,0 +1,3 @@
+Receiver: Arduino code for receiving the signal and displaying on LCD
+Transmiter: Arduino code for enabling the camra stream. Was a modification on Arduicam's official camera streaming example.
+memorysaver: The setting file for arducam streaming associated with my Transmitter code
